@@ -1,0 +1,15 @@
+#main {
+	position:absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+#img1, #img2, #img3, #img4, #img5, #img6 {
+position: absolute;
+}
+
+.img {
+position: absolute;
+}
